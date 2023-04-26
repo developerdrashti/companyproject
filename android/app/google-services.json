@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125911462499",
+    "project_id": "dropikmed001-85982",
+    "storage_bucket": "dropikmed001-85982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125911462499:android:2f17cde3f5ce86ffd9fe56",
+        "android_client_info": {
+          "package_name": "com.netpair.dropikmed001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125911462499-7car7rs9bci1ag4lth84d7k258lrk75c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nr8u9LgYdN1JZ7FRSjzg798WNireQtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125911462499-7car7rs9bci1ag4lth84d7k258lrk75c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
